@@ -80,7 +80,7 @@ gulp.task('ts', function () {
 		.pipe(buffer())
 		.pipe(sourcemaps.init({ loadMaps: true }))
 		.pipe(uglify())
-		.pipe(sourcemaps.write(jsFolderPath))
+		.pipe(sourcemaps.write('/'))
 		.pipe(gulp.dest(jsFolderPath));
 });
 
