@@ -60,6 +60,6 @@
 		"@miraidesigns/theme": "^1.0.0",
 		"@miraidesigns/tooltip": "^1.0.0",
 		"@miraidesigns/typography": "^1.0.0",
-		"@miraidesigns/utils": "^1.1.0"
+		"@miraidesigns/utils": "^1.3.0"
 	}
 }
