@@ -45,6 +45,7 @@
 		"@miraidesigns/lightbox": "^1.0.0",
 		"@miraidesigns/list": "^1.0.0",
 		"@miraidesigns/menu": "^1.0.0",
+		"@miraidesigns/modal": "^1.0.0",
 		"@miraidesigns/page": "^1.0.0",
 		"@miraidesigns/radio": "^1.0.0",
 		"@miraidesigns/range": "^1.0.0",
